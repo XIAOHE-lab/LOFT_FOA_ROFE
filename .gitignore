@@ -1,0 +1,5 @@
+__pycache__/
+mmdet.egg-info/
+
+data/
+work_dirs/

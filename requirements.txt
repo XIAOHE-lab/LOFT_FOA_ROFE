@@ -1,0 +1,6 @@
+scipy
+terminaltables
+six
+pycocotools
+geopandas
+tqdm
